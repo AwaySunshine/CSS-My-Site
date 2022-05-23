@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  text-align: center; /*everything is centered in our body*/
+  text-align: center; 
   font-family: 'Merriweather', serif;
   font-size: 200%;
   color: #40514E;
@@ -71,8 +71,8 @@ p {
 a {
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
-  margin: 10px 20px; /*space between words*/
-  text-decoration: none; /*no underlined text*/
+  margin: 10px 20px; 
+  text-decoration: none; 
 }
 
 a:hover {
@@ -87,8 +87,8 @@ a:hover {
 
 .guitarskill {
   width: 25%;
-  float: left; /*text float to the image-left*/
-  margin-right: 30px; /*set margin roght to our image*/
+  float: left; 
+  margin-right: 30px; 
 }
 .anime {
   width: 25%;
